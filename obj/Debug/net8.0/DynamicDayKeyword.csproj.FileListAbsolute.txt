@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\DynamicDayKeyword\bin\Debug\net8.0\DynamicDayKeyword.exe
+C:\Users\USER\Desktop\DynamicDayKeyword\bin\Debug\net8.0\DynamicDayKeyword.deps.json
+C:\Users\USER\Desktop\DynamicDayKeyword\bin\Debug\net8.0\DynamicDayKeyword.runtimeconfig.json
+C:\Users\USER\Desktop\DynamicDayKeyword\bin\Debug\net8.0\DynamicDayKeyword.dll
+C:\Users\USER\Desktop\DynamicDayKeyword\bin\Debug\net8.0\DynamicDayKeyword.pdb
+C:\Users\USER\Desktop\DynamicDayKeyword\obj\Debug\net8.0\DynamicDayKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\DynamicDayKeyword\obj\Debug\net8.0\DynamicDayKeyword.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\DynamicDayKeyword\obj\Debug\net8.0\DynamicDayKeyword.AssemblyInfo.cs
+C:\Users\USER\Desktop\DynamicDayKeyword\obj\Debug\net8.0\DynamicDayKeyword.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DynamicDayKeyword\obj\Debug\net8.0\DynamicDayKeyword.dll
+C:\Users\USER\Desktop\DynamicDayKeyword\obj\Debug\net8.0\refint\DynamicDayKeyword.dll
+C:\Users\USER\Desktop\DynamicDayKeyword\obj\Debug\net8.0\DynamicDayKeyword.pdb
+C:\Users\USER\Desktop\DynamicDayKeyword\obj\Debug\net8.0\DynamicDayKeyword.genruntimeconfig.cache
+C:\Users\USER\Desktop\DynamicDayKeyword\obj\Debug\net8.0\ref\DynamicDayKeyword.dll
